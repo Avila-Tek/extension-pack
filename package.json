@@ -2,7 +2,7 @@
   "name": "avila-tek-extensions",
   "displayName": "Avila Tek Extension Pack",
   "description": "A group of extensions used in Avila Tek",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "icon": "logo-1.png",
   "publisher": "avilatek",
   "galleryBanner": {
