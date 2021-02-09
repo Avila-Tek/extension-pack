@@ -2,7 +2,7 @@
   "name": "avila-tek-extensions",
   "displayName": "Avila Tek Extension Pack",
   "description": "A group of extensions used in Avila Tek",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "icon": "logo-1.png",
   "publisher": "avilatek",
   "galleryBanner": {
@@ -34,9 +34,7 @@
   },
   "extensionPack": [
     "aaron-bond.better-comments",
-    "abusaidm.html-snippets",
     "bradlc.vscode-tailwindcss",
-    "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
     "CoenraadS.bracket-pair-colorizer-2",
     "dbaeumer.vscode-eslint",
@@ -47,21 +45,20 @@
     "esbenp.prettier-vscode",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
+    "github.vscode-pull-request-github",
     "GraphQL.vscode-graphql",
+    "gruntfuggly.todo-tree",
     "mgmcdermott.vscode-language-babel",
     "mikestead.dotenv",
     "ms-azuretools.vscode-docker",
     "ms-vscode.vscode-typescript-next",
     "msjsdiag.debugger-for-chrome",
     "naumovs.color-highlight",
-    "pflannery.vscode-versionlens",
     "PKief.material-icon-theme",
     "ritwickdey.LiveServer",
     "streetsidesoftware.code-spell-checker",
     "streetsidesoftware.code-spell-checker-spanish",
     "VisualStudioExptTeam.vscodeintellicode",
-    "waderyan.gitblame",
-    "wayou.vscode-todo-highlight",
-    "wix.vscode-import-cost"
+    "waderyan.gitblame"
   ]
 }
